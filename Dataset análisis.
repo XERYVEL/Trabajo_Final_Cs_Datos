@@ -1,0 +1,23 @@
+age - SE QUEDA. / RELLENAR NULLS CON LA MEDIANA.
+job - SE QUEDA. / 0(EMPLEADO), 1(DESEMPLEADO), 2(ESTUDIANTES),
+       3(RETIRADOS) Y 4(UNKNOWN).
+marital	- ELIMINAR.
+education - ELIMINAR.	
+default	- ELIMINAR.
+balance - SE QUEDA. / ESTANDARIZAR.
+housing -  SE QUEDA. / CONVERTIR A 0(NO) Y 1(YES).
+loan - A ANALIZAR.
+contact	 - ELIMINAR.
+day - A ANALIZAR. 
+month - A ANALIZAR.
+duration - ELIMINAR.	
+campaign - A ANALIZAR.
+pdays - ELIMINAR.
+previous - ELIMINAR.
+outcome - ELIMINAR.
+deposit - SE QUEDA. / CONVERTIR A 0(NO) Y 1(YES).
+
+Preguntas para Pavón:
+¿A qué se refiere con este dato?
+¿Tiene que ver con nuestro objetivo?
+Siendo un 1.5% del dataset ¿Afecta acaso nuestras predicciones?
