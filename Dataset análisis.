@@ -6,18 +6,13 @@ education - ELIMINAR.
 default	- ELIMINAR.
 balance - SE QUEDA. / ESTANDARIZAR.
 housing -  SE QUEDA. / CONVERTIR A 0(NO) Y 1(YES).
-loan - A ANALIZAR.
+loan - SE QUEDA. (Analizar los modelos con y sin esta columna y decidir cuál se apega más al objetivo.)
 contact	 - ELIMINAR.
-day - A ANALIZAR. 
-month - A ANALIZAR.
+day - ELIMINAR.
+month - ELIMINAR.
 duration - ELIMINAR.	
-campaign - A ANALIZAR.
+campaign - ELIMINAR.
 pdays - ELIMINAR.
 previous - ELIMINAR.
-outcome - ELIMINAR.
+poutcome - ELIMINAR.
 deposit - SE QUEDA. / CONVERTIR A 0(NO) Y 1(YES).
-
-Preguntas para Pavón:
-¿A qué se refiere con este dato?
-¿Tiene que ver con nuestro objetivo?
-Siendo un 1.5% del dataset ¿Afecta acaso nuestras predicciones?
