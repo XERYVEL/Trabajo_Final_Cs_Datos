@@ -1,4 +1,4 @@
-# Trabajo_Final_Cs_Datos
+# Trabajo Final Ciencia de Datos
 Trabajo final de la materia Ciencia de Datos, hecho por: 
 - André Misael Simeón Villegas
 - María Ailén Juárez
