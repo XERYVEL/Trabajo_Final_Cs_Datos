@@ -10,8 +10,4 @@ Trabajo final de la materia Ciencia de Datos, hecho por:
 # A lo largo de este Github se podrá reflejar:
 El análisis de datos del dataset asignado, la eliminación de las redundancias y datos irrelevantes
 y por últimmo el pasado a limpio de los datos trabajados para luego ser utilizados para el entrenamiento de un modelo de Machine Learning.
-Por otro lado, en este Github no se encontrarán uno sino tres modelos, para al final informar acerca de los hallazgos tanto en un modelo como en los otros y la co,paración del mismo.
-
-
-# Análisis del dataset.
-https://docs.google.com/document/d/1Z3msdNt4y0TsTHml1d2JIgzs4odnvqzybnL73_WXc-c/edit?usp=sharing
+Por otro lado, en este Github no se encontrarán uno sino dos modelos, para al final informar acerca de los hallazgos tanto en un modelo como en los otros y la comparación del mismo.
